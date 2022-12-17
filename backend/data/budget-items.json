@@ -1,0 +1,38 @@
+{ "data": [
+  {
+    "id": 1,
+    "budgetId": 1,
+    "itemNumber": 1,
+    "amount": 1000000,
+    "approvedBy": "John Doe",
+    "approvedAt": "2022-08-17T20:09:42.871Z",
+    "status": null
+  },
+  {
+    "id": 2,
+    "budgetId": 1,
+    "itemNumber": 2,
+    "amount": 1000000,
+    "approvedBy": "John Doe",
+    "approvedAt": "2022-06-01T20:09:42.871Z",
+    "status": null
+  },
+  {
+    "id": 3,
+    "budgetId": 1,
+    "itemNumber": 3,
+    "amount": 1000000,
+    "approvedBy": "John Doe",
+    "approvedAt": "2021-08-17T20:09:42.871Z",
+    "status": null
+  },
+  {
+    "id": 4,
+    "budgetId": 1,
+    "itemNumber": 4,
+    "amount": 1000000,
+    "approvedBy": null,
+    "approvedAt": null,
+    "status": null
+  }
+]}
